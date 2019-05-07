@@ -40,6 +40,14 @@
   margin: 1.5rem 0;
 }
 
+.vertical-line {
+  display: inline-block;
+  height: 16px;
+  width: 1px;
+  background: #ccc;
+  margin: 0 0rem -0.1rem 1.5rem;
+}
+
 //Backgrounds
 .bg {
   &-primary {
